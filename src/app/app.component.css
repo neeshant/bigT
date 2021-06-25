@@ -1,0 +1,11 @@
+.error-alert-snackbar{
+    color:white;
+    background-color: tomato;
+}
+::ng.deep warning {
+    background: #2196F3;
+  }
+.error-alert-snackbar:after{
+    font-family : "FontAwesome";
+    content: "audio-wave.gif";
+}
